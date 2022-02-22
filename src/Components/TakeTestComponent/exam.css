@@ -1,0 +1,54 @@
+.app-wrapper
+{
+    background-image: url("https://previews.123rf.com/images/lesichkadesign/lesichkadesign1807/lesichkadesign180700818/105107527-recycled-pink-rose-color-craft-paper-background-light-sweet-pink-color-texture.jpg");
+    box-shadow: 3px 6px 40px hotpink;
+    min-width: 700px;
+    min-height: 500px;
+    padding: 20px;
+    border: 3px;
+    border-radius: 10px;
+
+}
+.question-count{
+    color:whitesmoke ;
+    font-size: 20px;
+    margin-bottom: 40px;
+    display:flex;
+    justify-content: center;
+    align-items:right;
+    padding-bottom: 5px;
+    border: 3px solid white;
+    border-radius: 15px;
+    background-color:skyblue;
+    width: 70%;
+    font-style: italic;
+}
+.h1{
+    color:black;
+    text-align:center;
+    align-items: center;
+    text-decoration: underline;
+}
+.answer-section-wrapper{
+    background-color:rgba(130, 202, 15, 0.733);
+    color:white !important;
+    border: 2px solid pink;
+    border-radius: 10px; 
+    display: flex;
+    align-items: center;
+    font-style: oblique;
+    font-size: 20px;
+   width: 70%;
+    justify-content: left;
+}
+.submit{
+    background-color:greenyellow;
+    font-style: inherit;
+    font-size: larger;
+    margin: 20px auto;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: center;
+    color: black;
+    width: 20%;}
